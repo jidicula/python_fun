@@ -1,3 +1,4 @@
 language: python
-install: pip install --user BeautifulSoup4
+# Somehow Travis-CI isn't allowing --user installations
+install: pip install BeautifulSoup4
 script: py.test *.py
