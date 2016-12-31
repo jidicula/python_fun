@@ -36,5 +36,5 @@ def current_weather():
     weather_now = u"Conditions observed at: *%s*.\nTemperature: *%s*\nCondition: *%s*\nPressure: *%s*\nTendency: *%s*\nWind speed: *%s*\nWind chill: *%s*" % (observed,temperature,condition,pressure,tendency,wind,windchill)
     return weather_now
 
-print("Weather in Montréal:")
+print(u"Weather in Montréal:")
 print(current_weather())
