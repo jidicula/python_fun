@@ -1,4 +1,4 @@
-# python_fun [![Build Status](https://travis-ci.org/jidicula/python_fun.svg?branch=master)](https://travis-ci.org/jidicula/python_fun)
+# python_fun [![Build Status](https://travis-ci.org/jidicula/python_fun.svg?branch=master)](https://travis-ci.org/jidicula/python_fun) [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 Various python scripts for small tasks
 
 ## External Packages used:
